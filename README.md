@@ -15,6 +15,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLApps](#lolapps)
 - [LOLBAS](#lolbas)
 - [LOLAD](#lolad)
+- [LOLAPI](#lolapi)
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
@@ -73,6 +74,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLAD
 
 - [LOLAD](https://lolad-project.github.io/) - Living Off the Land in Active Directory - A collection of techniques for exploiting Active Directory environments.
+
+## LOLAPI
+
+- [LOLAPI](https://github.com/TheMagicClaw/LOLAPI) - Living Off The Land API - A structured catalog of legitimate system APIs that can be weaponized for attack.
 
 ## LOLDrivers
 
