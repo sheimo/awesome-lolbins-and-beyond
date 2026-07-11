@@ -16,6 +16,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLBAS](#lolbas)
 - [LOLAD](#lolad)
 - [LOLAPI](#lolapi)
+- [lolcreds-data](#lolcreds-data)
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
@@ -78,6 +79,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLAPI
 
 - [LOLAPI](https://github.com/TheMagicClaw/LOLAPI) - Living Off The Land API - A structured catalog of legitimate system APIs that can be weaponized for attack.
+
+## lolcreds-data
+
+- [lolcreds-data](https://github.com/haxxm0nkey/lolcreds-data) - Living Off The Land Credentials - Public credential defaults, locations, and exposure patterns for real products, SaaS/cloud services, appliances, and deployment packages.
 
 ## LOLDrivers
 
